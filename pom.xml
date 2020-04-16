@@ -8,7 +8,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+     <!-ceshi>
     <groupId>com.ruijing</groupId>
     <artifactId>ruijing-code</artifactId>
     <version>1.0-SNAPSHOT</version>
